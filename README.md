@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing how socioeconomic disparities—such
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](image.png)
 
 ---
 
